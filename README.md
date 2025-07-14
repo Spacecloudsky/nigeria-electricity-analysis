@@ -24,10 +24,10 @@ The dataset used in this analysis contains detailed electricity usage and billin
    How has electricity consumption evolved over time?
 
 2. **Consumer Profiling**  
-   What are the usage patterns among different customer types?
+   What are the usage patterns among different consumer types?
 
 3. **Payment Behavior**  
-   How compliant are consumers with their payments? What factors influence delays or defaults?
+   How compliant are consumers with their payments? What factors influence delays or defaults in payment?
 
 4. **Meter Status Impact**  
    How do faulty or inactive meters affect consumption and billing accuracy?
@@ -48,10 +48,10 @@ The dataset used in this analysis contains detailed electricity usage and billin
 ---
 
 ## 📈 Insights & Outcomes
-- Consumption generally spikes during certain months, indicating seasonal patterns.
-- Postpaid customers tend to have higher billing compliance but delayed payments.
-- Customers with faulty meters often show abnormal billing records.
-- Certain tariff bands disproportionately affect low-consumption households.
+- Consumption generally spikes during certain months(May to July and December to March), indicating seasonal patterns.
+- Government consumers tend to have higher billing compliance despite lower electricity consumption.
+- Customers with faulty meters often show abnormal billing records indicating bypass activity.
+- Certain tariff bands disproportionately affect low-consumption households,in essence, tariff band is not proportional to the amount of electricity consumed. Proper monitoring and new regulations are encouraged.
 - Visualization of trends helps flag discrepancies and inefficiencies in the current billing system.
 
 ---
