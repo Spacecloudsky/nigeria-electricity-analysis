@@ -8,7 +8,6 @@ This project analyzes electricity consumption data in Nigeria with the goal of u
 
 ## 📁 Dataset Description
 The dataset used in this analysis contains detailed electricity usage and billing records, including:
-- **Customer profiles**
 - **Consumption patterns**
 - **Payment behavior**
 - **Meter statuses**
